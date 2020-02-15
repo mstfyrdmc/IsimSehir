@@ -1,0 +1,19 @@
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.exe.config
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.exe
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.pdb
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.csprojResolveAssemblyReference.cache
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.Form1.resources
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.Properties.Resources.resources
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.csproj.GenerateResource.Cache
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.exe
+C:\Users\ikbal.hamurcu\Desktop\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.exe
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\bin\Debug\WFAIsımSehir.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.exe
+C:\Users\Mustafa YARDIMCI\Desktop\project\WFAIsımSehir\WFAIsımSehir\obj\Debug\WFAIsımSehir.pdb
